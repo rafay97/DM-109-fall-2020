@@ -1,7 +1,7 @@
 
 #DM 109 Fall 2020: Course Repository#
 ###PROJECT MEMBERS###
-StdID | Name
+
 ------------ | -------------
 **63338** | **Rafay Rehman** 
 63292 | Umer abdullah 
